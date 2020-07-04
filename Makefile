@@ -31,7 +31,6 @@ st: $(OBJ)
 
 clean:
 	rm -f st $(OBJ) st-$(VERSION).tar.gz config.h
-	mv *.diff patches/
 
 dist: clean
 	mkdir -p st-$(VERSION)
