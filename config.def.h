@@ -9,6 +9,10 @@
  */
 static char *font = "Monoid:style=Retina:pixelsize=10:antialias=true:autohint=false";
 static int borderpx = 10;
+/* Spare fonts */
+static char *font2[] = {
+	"Siji:style=Regular",
+};
 
 /*
  * What program is execed by st depends of these precedence rules:
