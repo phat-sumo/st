@@ -7,7 +7,7 @@
  *
  * use fc-list
  */
-static char *font = "Monoid:style=Retina:pixelsize=10:antialias=true:autohint=false";
+static char *font = "monospace:style=Retina:pixelsize=10:antialias=true:autohint=false";
 static int borderpx = 10;
 /* Spare fonts */
 static char *font2[] = {
